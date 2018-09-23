@@ -8,3 +8,4 @@ counter = 0
  end
 end
 
+def current_player
