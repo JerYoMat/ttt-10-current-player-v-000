@@ -8,4 +8,7 @@ counter = 0
  end
 end
 
-def current_player
+def current_player(board)
+  if turn_count(board).even?
+    
+end
